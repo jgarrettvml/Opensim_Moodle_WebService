@@ -38,9 +38,6 @@ init()
     listenHandle = llListen(777, "", NULL_KEY, "");
     name = llGetOwner();
     AvatarName = llKey2Name(name);
-    
-    llSetTexture("a01144a9-44a0-4402-bd6f-c95b1f84566a", ALL_SIDES);
-    //llSetColor(<1.000, 0.255, 0.212>, ALL_SIDES);
 
     if(llGetInventoryType(configurationNotecardName) != INVENTORY_NOTECARD)
     {
