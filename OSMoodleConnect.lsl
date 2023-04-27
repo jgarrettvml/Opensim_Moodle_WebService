@@ -7,7 +7,7 @@
 integer debug=0;
 
 //Moodle Config - From Notecard
-string configurationNotecardName = "Application.Config";
+string configurationNotecardName = "";
 key notecardQueryId;
 integer line;
 
