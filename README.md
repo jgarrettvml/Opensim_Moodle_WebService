@@ -1,4 +1,4 @@
-# Opensim/SecondLife Moodle WebService
+# Opensimulator/SecondLife Moodle WebService
 This is a connector between OpenSimulator/SecondLife and Moodle Web Service
 
 
