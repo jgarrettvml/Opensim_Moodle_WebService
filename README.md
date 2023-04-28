@@ -1,5 +1,5 @@
-# Opensim Moodle WebService
-This is a connector between OpenSimulator and Moodle Web Service
+# Opensim/SecondLife Moodle WebService
+This is a connector between OpenSimulator/SecondLife and Moodle Web Service
 
 
 It was going to be a part of a larger project to be open-sourced, but have decided not to continue the project so am putting it online "as-is" so that it can remain in the public domain. 
