@@ -12,4 +12,4 @@ Step 2: Configure Moodle Web Services for API access, this is crucial and will n
 
 Step 3: Place LSL script inside object and update credentials
 
-Any use, modification, or distribution of this source code or derivatives must contain, be distributed and made available under the same GNU 2.0 license. https://github.com/jgarrettvml/Opensim_Moodle_WebService/blob/main/LICENSE
+Any use, modification, or distribution of this source code or derivatives must contain, be distributed and made available under the same GNU/GPL 3.0 license. https://github.com/jgarrettvml/Opensim_Moodle_WebService/blob/main/LICENSE
